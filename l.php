@@ -384,6 +384,6 @@ echo '</textarea><br />
 //<script language="javascript"> 
 //document.getElementById("okbaby").click(); 
 //</script>
-}}
+
 }
 ?>
